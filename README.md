@@ -1,5 +1,7 @@
 # StyleMorpheus
 
+![](teaser.png)
+
 ## [Project Homepage](https://peizhiyan.github.io/docs/morpheus/)
 
 
